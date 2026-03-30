@@ -1,0 +1,201 @@
+Employee_ID,Employee_Name,Age,Gender,City,Department,Salary,Experience_Years,Education,Performance_Score,Joining_Date,Phone_Number,Email,Monthly_Bonus,Salary_Text
+EMP0001,Rahul Sharma,28.0,Male,Mumbai,Sales,94163.0,16.0,Graduate,1.0,15/03/2020,9876543210,rahul@gmail.com,6320.0,Rs. 94163.0/-
+EMP0002,Priya Patel,41.0,Female,Pune,IT,50939.0,7.0,Post Graduate,8.0,2019-07-22,8765432109,priya@yahoo.com,14216.0,50939
+EMP0003,Amit Kumar,36.0,male,Delhi,HR,73925.0,3.0,graduate,5.0,01-01-2021,+91-9876543210,amit.kumar,3779.0,73925
+EMP0004,Sneha Joshi,32.0,FEMALE,Bangalore,Marketing,67941.0,5.0,POST GRADUATE,4.0,March 2022,(987) 654-3210,sneha@,18308.0,67941
+EMP0005,Vikram Singh,29.0,M,mumbai,sales,46834.0,7.0,Diploma,8.0,22.04.2018,98765,vikram@company.com,2581.0,Rs. 46834.0/-
+EMP0006,Pooja Mehta,42.0,F,PUNE,it,43047.0,19.0,diploma,7.0,2020/11/30,1234567890123,pooja gmail.com,13677.0,Rs. 43047.0/-
+EMP0007,Rohan Kulkarni,28.0,female,delhi,H.R,51105.0,2.0,12th,2.0,15-Aug-2019,ABCDEFGHIJ,,6713.0,Rs. 51105.0/-
+EMP0008,Neha Verma,40.0,Male ,bangalore,marketing,100766.0,15.0,,1.0,2021-13-45,,neha@valid.com,17639.0,100766
+EMP0009,Suresh Nair,44.0, Female,Hyderabad,Finance,40707.0,2.0,Graduate,4.0,N/A,9876543210,rahul@gmail.com,5804.0,40707
+EMP0010,Kavita Reddy,32.0,,,,46976.0,17.0,Post Graduate,8.0,,8765432109,priya@yahoo.com,19222.0,46976
+EMP0011,  rahul sharma  ,32.0,Male,Mumbai,Sales,69262.0,13.0,graduate,2.0,15/03/2020,+91-9876543210,amit.kumar,11136.0,69262
+EMP0012,  PRIYA PATEL  ,42.0,Female,Pune,IT,48776.0,17.0,POST GRADUATE,3.0,2019-07-22,(987) 654-3210,sneha@,1009.0,Rs. 48776.0/-
+EMP0013,   Amit Kumar   ,25.0,male,Delhi,HR,55080.0,1.0,Diploma,1.0,01-01-2021,98765,vikram@company.com,6124.0,55080
+EMP0014,  Sneha  Joshi  ,29.0,FEMALE,Bangalore,Marketing,91842.0,2.0,diploma,1.0,March 2022,1234567890123,pooja gmail.com,2015.0,91842
+EMP0015,,24.0,M,mumbai,sales,86373.0,15.0,12th,3.0,22.04.2018,ABCDEFGHIJ,,3193.0,Rs. 86373.0/-
+EMP0016,  Rahul Sharma  ,43.0,F,PUNE,it,31776.0,8.0,,5.0,2020/11/30,,neha@valid.com,9415.0,Rs. 31776.0/-
+EMP0017,  Priya Patel  ,42.0,female,delhi,H.R,117787.0,3.0,Graduate,3.0,15-Aug-2019,9876543210,rahul@gmail.com,14550.0,117787
+EMP0018,  Amit Kumar  ,23.0,Male ,bangalore,marketing,80016.0,0.0,Post Graduate,1.0,2021-13-45,8765432109,priya@yahoo.com,15512.0,Rs. 80016.0/-
+EMP0019,  Sneha Joshi  ,33.0, Female,Hyderabad,Finance,34474.0,3.0,graduate,1.0,N/A,+91-9876543210,amit.kumar,5158.0,Rs. 34474.0/-
+EMP0020,  Vikram Singh  ,27.0,,,,130830.0,0.0,POST GRADUATE,8.0,,(987) 654-3210,sneha@,7970.0,130830
+EMP0021,  Pooja Mehta  ,23.0,Male,Mumbai,Sales,83053.0,13.0,Diploma,2.0,15/03/2020,98765,vikram@company.com,7938.0,Rs. 83053.0/-
+EMP0022,Rohan Kulkarni,42.0,Female,Pune,IT,46959.0,15.0,diploma,3.0,2019-07-22,1234567890123,pooja gmail.com,14772.0,Rs. 46959.0/-
+EMP0023,Neha Verma,22.0,male,Delhi,HR,30530.0,19.0,12th,2.0,01-01-2021,ABCDEFGHIJ,,19017.0,30530
+EMP0024,Suresh Nair,33.0,FEMALE,Bangalore,Marketing,119856.0,7.0,,3.0,March 2022,,neha@valid.com,11344.0,119856
+EMP0025,Kavita Reddy,43.0,M,mumbai,sales,144101.0,6.0,Graduate,7.0,22.04.2018,9876543210,rahul@gmail.com,8266.0,Rs. 144101.0/-
+EMP0026,rahul sharma,33.0,F,PUNE,it,28748.0,2.0,Post Graduate,1.0,2020/11/30,8765432109,priya@yahoo.com,9702.0,28748
+EMP0027,PRIYA PATEL,38.0,female,delhi,H.R,122504.0,16.0,graduate,8.0,15-Aug-2019,+91-9876543210,amit.kumar,1384.0,122504
+EMP0028, Amit Kumar ,31.0,Male ,bangalore,marketing,123098.0,0.0,POST GRADUATE,2.0,2021-13-45,(987) 654-3210,sneha@,1404.0,123098
+EMP0029,Sneha  Joshi,37.0, Female,Hyderabad,Finance,38545.0,15.0,Diploma,3.0,N/A,98765,vikram@company.com,9175.0,Rs. 38545.0/-
+EMP0030,,36.0,,,,91199.0,11.0,diploma,9.0,,1234567890123,pooja gmail.com,16158.0,Rs. 91199.0/-
+EMP0031,Rahul Sharma,36.0,Male,Mumbai,Sales,59766.0,18.0,12th,7.0,15/03/2020,ABCDEFGHIJ,,13763.0,Rs. 59766.0/-
+EMP0032,Priya Patel,40.0,Female,Pune,IT,98530.0,13.0,,4.0,2019-07-22,,neha@valid.com,19384.0,Rs. 98530.0/-
+EMP0033,Amit Kumar,33.0,male,Delhi,HR,118557.0,5.0,Graduate,5.0,01-01-2021,9876543210,rahul@gmail.com,10860.0,Rs. 118557.0/-
+EMP0034,Sneha Joshi,44.0,FEMALE,Bangalore,Marketing,86087.0,5.0,Post Graduate,2.0,March 2022,8765432109,priya@yahoo.com,6989.0,Rs. 86087.0/-
+EMP0035,Vikram Singh,41.0,M,mumbai,sales,120839.0,12.0,graduate,8.0,22.04.2018,+91-9876543210,amit.kumar,16106.0,120839
+EMP0036,Pooja Mehta,24.0,F,PUNE,it,141183.0,18.0,POST GRADUATE,4.0,2020/11/30,(987) 654-3210,sneha@,18844.0,Rs. 141183.0/-
+EMP0037,Rohan Kulkarni,26.0,female,delhi,H.R,93840.0,7.0,Diploma,9.0,15-Aug-2019,98765,vikram@company.com,4636.0,Rs. 93840.0/-
+EMP0038,Neha Verma,40.0,Male ,bangalore,marketing,143451.0,1.0,diploma,5.0,2021-13-45,1234567890123,pooja gmail.com,11916.0,Rs. 143451.0/-
+EMP0039,Suresh Nair,28.0, Female,Hyderabad,Finance,79384.0,0.0,12th,9.0,N/A,ABCDEFGHIJ,,5809.0,Rs. 79384.0/-
+EMP0040,Kavita Reddy,42.0,,,,76005.0,14.0,,4.0,,,neha@valid.com,14456.0,Rs. 76005.0/-
+EMP0041,rahul sharma,30.0,Male,Mumbai,Sales,71576.0,0.0,Graduate,5.0,15/03/2020,9876543210,rahul@gmail.com,16444.0,Rs. 71576.0/-
+EMP0042,PRIYA PATEL,28.0,Female,Pune,IT,64353.0,4.0,Post Graduate,9.0,2019-07-22,8765432109,priya@yahoo.com,6997.0,64353
+EMP0043, Amit Kumar ,39.0,male,Delhi,HR,87003.0,15.0,graduate,8.0,01-01-2021,+91-9876543210,amit.kumar,3048.0,87003
+EMP0044,Sneha  Joshi,25.0,FEMALE,Bangalore,Marketing,108211.0,18.0,POST GRADUATE,3.0,March 2022,(987) 654-3210,sneha@,13338.0,108211
+EMP0045,,35.0,M,mumbai,sales,77733.0,3.0,Diploma,1.0,22.04.2018,98765,vikram@company.com,18100.0,77733
+EMP0046,Rahul Sharma,39.0,F,PUNE,it,90318.0,2.0,diploma,3.0,2020/11/30,1234567890123,pooja gmail.com,5544.0,90318
+EMP0047,Priya Patel,30.0,female,delhi,H.R,134953.0,16.0,12th,4.0,15-Aug-2019,ABCDEFGHIJ,,5976.0,134953
+EMP0048,Amit Kumar,42.0,Male ,bangalore,marketing,114474.0,16.0,,2.0,2021-13-45,,neha@valid.com,13775.0,114474
+EMP0049,Sneha Joshi,23.0, Female,Hyderabad,Finance,48664.0,11.0,Graduate,1.0,N/A,9876543210,rahul@gmail.com,11015.0,Rs. 48664.0/-
+EMP0050,Vikram Singh,41.0,,,,92172.0,13.0,Post Graduate,7.0,,8765432109,priya@yahoo.com,4419.0,92172
+EMP0051,Pooja Mehta,36.0,Male,Mumbai,Sales,110616.0,5.0,graduate,8.0,15/03/2020,+91-9876543210,amit.kumar,15430.0,110616
+EMP0052,Rohan Kulkarni,28.0,Female,Pune,IT,118264.0,2.0,POST GRADUATE,7.0,2019-07-22,(987) 654-3210,sneha@,8239.0,118264
+EMP0053,Neha Verma,33.0,male,Delhi,HR,140386.0,8.0,Diploma,5.0,01-01-2021,98765,vikram@company.com,15489.0,140386
+EMP0054,Suresh Nair,29.0,FEMALE,Bangalore,Marketing,51736.0,4.0,diploma,1.0,March 2022,1234567890123,pooja gmail.com,17633.0,Rs. 51736.0/-
+EMP0055,Kavita Reddy,36.0,M,mumbai,sales,119209.0,16.0,12th,7.0,22.04.2018,ABCDEFGHIJ,,11357.0,Rs. 119209.0/-
+EMP0056,rahul sharma,24.0,F,PUNE,it,128041.0,13.0,,7.0,2020/11/30,,neha@valid.com,18154.0,Rs. 128041.0/-
+EMP0057,PRIYA PATEL,35.0,female,delhi,H.R,137859.0,2.0,Graduate,9.0,15-Aug-2019,9876543210,rahul@gmail.com,5363.0,137859
+EMP0058, Amit Kumar ,38.0,Male ,bangalore,marketing,137181.0,0.0,Post Graduate,3.0,2021-13-45,8765432109,priya@yahoo.com,11176.0,Rs. 137181.0/-
+EMP0059,Sneha  Joshi,25.0, Female,Hyderabad,Finance,25854.0,19.0,graduate,9.0,N/A,+91-9876543210,amit.kumar,18461.0,25854
+EMP0060,,39.0,,,,115084.0,0.0,POST GRADUATE,1.0,,(987) 654-3210,sneha@,9427.0,115084
+EMP0061,Rahul Sharma,29.0,Male,Mumbai,Sales,63623.0,2.0,Diploma,1.0,15/03/2020,98765,vikram@company.com,9580.0,Rs. 63623.0/-
+EMP0062,Priya Patel,25.0,Female,Pune,IT,32392.0,17.0,diploma,4.0,2019-07-22,1234567890123,pooja gmail.com,5858.0,Rs. 32392.0/-
+EMP0063,Amit Kumar,23.0,male,Delhi,HR,80680.0,9.0,12th,9.0,01-01-2021,ABCDEFGHIJ,,11040.0,Rs. 80680.0/-
+EMP0064,Sneha Joshi,27.0,FEMALE,Bangalore,Marketing,71717.0,2.0,,6.0,March 2022,,neha@valid.com,16254.0,Rs. 71717.0/-
+EMP0065,Vikram Singh,43.0,M,mumbai,sales,144937.0,7.0,Graduate,3.0,22.04.2018,9876543210,rahul@gmail.com,12470.0,Rs. 144937.0/-
+EMP0066,Pooja Mehta,31.0,F,PUNE,it,112092.0,13.0,Post Graduate,1.0,2020/11/30,8765432109,priya@yahoo.com,2252.0,Rs. 112092.0/-
+EMP0067,Rohan Kulkarni,25.0,female,delhi,H.R,75859.0,17.0,graduate,4.0,15-Aug-2019,+91-9876543210,amit.kumar,7996.0,75859
+EMP0068,Neha Verma,43.0,Male ,bangalore,marketing,129095.0,14.0,POST GRADUATE,9.0,2021-13-45,(987) 654-3210,sneha@,13173.0,129095
+EMP0069,Suresh Nair,39.0, Female,Hyderabad,Finance,51309.0,1.0,Diploma,3.0,N/A,98765,vikram@company.com,5673.0,51309
+EMP0070,Kavita Reddy,33.0,,,,112455.0,9.0,diploma,9.0,,1234567890123,pooja gmail.com,16781.0,112455
+EMP0071,rahul sharma,23.0,Male,Mumbai,Sales,88734.0,1.0,12th,7.0,15/03/2020,ABCDEFGHIJ,,14051.0,88734
+EMP0072,PRIYA PATEL,31.0,Female,Pune,IT,95467.0,16.0,,4.0,2019-07-22,,neha@valid.com,7881.0,Rs. 95467.0/-
+EMP0073, Amit Kumar ,25.0,male,Delhi,HR,77662.0,7.0,Graduate,3.0,01-01-2021,9876543210,rahul@gmail.com,7949.0,Rs. 77662.0/-
+EMP0074,Sneha  Joshi,35.0,FEMALE,Bangalore,Marketing,123506.0,0.0,Post Graduate,5.0,March 2022,8765432109,priya@yahoo.com,10521.0,123506
+EMP0075,,37.0,M,mumbai,sales,134751.0,8.0,graduate,5.0,22.04.2018,+91-9876543210,amit.kumar,9017.0,Rs. 134751.0/-
+EMP0076,Rahul Sharma,36.0,F,PUNE,it,143906.0,10.0,POST GRADUATE,3.0,2020/11/30,(987) 654-3210,sneha@,7941.0,143906
+EMP0077,Priya Patel,29.0,female,delhi,H.R,37688.0,15.0,Diploma,9.0,15-Aug-2019,98765,vikram@company.com,11209.0,Rs. 37688.0/-
+EMP0078,Amit Kumar,35.0,Male ,bangalore,marketing,50342.0,6.0,diploma,4.0,2021-13-45,1234567890123,pooja gmail.com,18715.0,50342
+EMP0079,Sneha Joshi,44.0, Female,Hyderabad,Finance,62157.0,9.0,12th,5.0,N/A,ABCDEFGHIJ,,10550.0,62157
+EMP0080,Vikram Singh,29.0,,,,92863.0,2.0,,4.0,,,neha@valid.com,5637.0,92863
+EMP0081,Pooja Mehta,42.0,Male,Mumbai,Sales,131308.0,17.0,Graduate,5.0,15/03/2020,9876543210,rahul@gmail.com,5854.0,Rs. 131308.0/-
+EMP0082,Rohan Kulkarni,37.0,Female,Pune,IT,77083.0,12.0,Post Graduate,7.0,2019-07-22,8765432109,priya@yahoo.com,11320.0,77083
+EMP0083,Neha Verma,34.0,male,Delhi,HR,131081.0,6.0,graduate,9.0,01-01-2021,+91-9876543210,amit.kumar,19564.0,Rs. 131081.0/-
+EMP0084,Suresh Nair,39.0,FEMALE,Bangalore,Marketing,90733.0,3.0,POST GRADUATE,7.0,March 2022,(987) 654-3210,sneha@,5892.0,Rs. 90733.0/-
+EMP0085,Kavita Reddy,36.0,M,mumbai,sales,114045.0,12.0,Diploma,5.0,22.04.2018,98765,vikram@company.com,8043.0,114045
+EMP0086,rahul sharma,42.0,F,PUNE,it,59698.0,19.0,diploma,7.0,2020/11/30,1234567890123,pooja gmail.com,17521.0,59698
+EMP0087,PRIYA PATEL,34.0,female,delhi,H.R,135078.0,0.0,12th,5.0,15-Aug-2019,ABCDEFGHIJ,,5164.0,Rs. 135078.0/-
+EMP0088, Amit Kumar ,30.0,Male ,bangalore,marketing,105623.0,7.0,,3.0,2021-13-45,,neha@valid.com,8941.0,Rs. 105623.0/-
+EMP0089,Sneha  Joshi,36.0, Female,Hyderabad,Finance,47671.0,13.0,Graduate,7.0,N/A,9876543210,rahul@gmail.com,15388.0,47671
+EMP0090,,34.0,,,,50184.0,15.0,Post Graduate,2.0,,8765432109,priya@yahoo.com,6569.0,50184
+EMP0091,Rahul Sharma,22.0,Male,Mumbai,Sales,118384.0,13.0,graduate,9.0,15/03/2020,+91-9876543210,amit.kumar,5300.0,118384
+EMP0092,Priya Patel,28.0,Female,Pune,IT,67107.0,11.0,POST GRADUATE,1.0,2019-07-22,(987) 654-3210,sneha@,7269.0,Rs. 67107.0/-
+EMP0093,Amit Kumar,30.0,male,Delhi,HR,111202.0,18.0,Diploma,6.0,01-01-2021,98765,vikram@company.com,4818.0,Rs. 111202.0/-
+EMP0094,Sneha Joshi,22.0,FEMALE,Bangalore,Marketing,134893.0,14.0,diploma,7.0,March 2022,1234567890123,pooja gmail.com,13015.0,134893
+EMP0095,Vikram Singh,33.0,M,mumbai,sales,76663.0,1.0,12th,8.0,22.04.2018,ABCDEFGHIJ,,13234.0,76663
+EMP0096,Pooja Mehta,29.0,F,PUNE,it,40708.0,1.0,,9.0,2020/11/30,,neha@valid.com,19290.0,40708
+EMP0097,Rohan Kulkarni,32.0,female,delhi,H.R,116906.0,18.0,Graduate,2.0,15-Aug-2019,9876543210,rahul@gmail.com,7254.0,Rs. 116906.0/-
+EMP0098,Neha Verma,40.0,Male ,bangalore,marketing,74811.0,16.0,Post Graduate,2.0,2021-13-45,8765432109,priya@yahoo.com,18144.0,Rs. 74811.0/-
+EMP0099,Suresh Nair,38.0, Female,Hyderabad,Finance,27811.0,19.0,graduate,5.0,N/A,+91-9876543210,amit.kumar,8350.0,Rs. 27811.0/-
+EMP0100,Kavita Reddy,29.0,,,,81250.0,9.0,POST GRADUATE,5.0,,(987) 654-3210,sneha@,16183.0,Rs. 81250.0/-
+EMP0101,rahul sharma,24.0,Male,Mumbai,Sales,137547.0,5.0,Diploma,6.0,15/03/2020,98765,vikram@company.com,7238.0,137547
+EMP0102,PRIYA PATEL,24.0,Female,Pune,IT,97082.0,14.0,diploma,3.0,2019-07-22,1234567890123,pooja gmail.com,7090.0,Rs. 97082.0/-
+EMP0103, Amit Kumar ,22.0,male,Delhi,HR,149249.0,10.0,12th,8.0,01-01-2021,ABCDEFGHIJ,,12637.0,Rs. 149249.0/-
+EMP0104,Sneha  Joshi,26.0,FEMALE,Bangalore,Marketing,59754.0,4.0,,1.0,March 2022,,neha@valid.com,13647.0,Rs. 59754.0/-
+EMP0105,,31.0,M,mumbai,sales,120742.0,0.0,Graduate,6.0,22.04.2018,9876543210,rahul@gmail.com,10911.0,120742
+EMP0106,Rahul Sharma,28.0,F,PUNE,it,131642.0,7.0,Post Graduate,4.0,2020/11/30,8765432109,priya@yahoo.com,9472.0,Rs. 131642.0/-
+EMP0107,Priya Patel,30.0,female,delhi,H.R,36411.0,11.0,graduate,1.0,15-Aug-2019,+91-9876543210,amit.kumar,19271.0,36411
+EMP0108,Amit Kumar,28.0,Male ,bangalore,marketing,27911.0,11.0,POST GRADUATE,7.0,2021-13-45,(987) 654-3210,sneha@,4266.0,27911
+EMP0109,Sneha Joshi,30.0, Female,Hyderabad,Finance,92270.0,4.0,Diploma,9.0,N/A,98765,vikram@company.com,1666.0,92270
+EMP0110,Vikram Singh,29.0,,,,108763.0,6.0,diploma,4.0,,1234567890123,pooja gmail.com,5188.0,Rs. 108763.0/-
+EMP0111,Pooja Mehta,33.0,Male,Mumbai,Sales,33680.0,3.0,12th,4.0,15/03/2020,ABCDEFGHIJ,,18055.0,Rs. 33680.0/-
+EMP0112,Rohan Kulkarni,23.0,Female,Pune,IT,109896.0,5.0,,6.0,2019-07-22,,neha@valid.com,11161.0,109896
+EMP0113,Neha Verma,22.0,male,Delhi,HR,108879.0,12.0,Graduate,3.0,01-01-2021,9876543210,rahul@gmail.com,12314.0,Rs. 108879.0/-
+EMP0114,Suresh Nair,37.0,FEMALE,Bangalore,Marketing,96295.0,19.0,Post Graduate,6.0,March 2022,8765432109,priya@yahoo.com,13891.0,96295
+EMP0115,Kavita Reddy,44.0,M,mumbai,sales,113614.0,14.0,graduate,7.0,22.04.2018,+91-9876543210,amit.kumar,5777.0,Rs. 113614.0/-
+EMP0116,rahul sharma,44.0,F,PUNE,it,125689.0,2.0,POST GRADUATE,3.0,2020/11/30,(987) 654-3210,sneha@,4900.0,Rs. 125689.0/-
+EMP0117,PRIYA PATEL,26.0,female,delhi,H.R,36111.0,7.0,Diploma,7.0,15-Aug-2019,98765,vikram@company.com,14716.0,36111
+EMP0118, Amit Kumar ,24.0,Male ,bangalore,marketing,62504.0,19.0,diploma,3.0,2021-13-45,1234567890123,pooja gmail.com,7981.0,Rs. 62504.0/-
+EMP0119,Sneha  Joshi,33.0, Female,Hyderabad,Finance,26802.0,15.0,12th,2.0,N/A,ABCDEFGHIJ,,7376.0,Rs. 26802.0/-
+EMP0120,,29.0,,,,33155.0,12.0,,4.0,,,neha@valid.com,17907.0,33155
+EMP0121,Rahul Sharma,43.0,Male,Mumbai,Sales,98656.0,17.0,Graduate,8.0,15/03/2020,9876543210,rahul@gmail.com,19777.0,Rs. 98656.0/-
+EMP0122,Priya Patel,24.0,Female,Pune,IT,64384.0,9.0,Post Graduate,9.0,2019-07-22,8765432109,priya@yahoo.com,19977.0,Rs. 64384.0/-
+EMP0123,Amit Kumar,22.0,male,Delhi,HR,137561.0,18.0,graduate,7.0,01-01-2021,+91-9876543210,amit.kumar,11160.0,Rs. 137561.0/-
+EMP0124,Sneha Joshi,24.0,FEMALE,Bangalore,Marketing,72254.0,16.0,POST GRADUATE,1.0,March 2022,(987) 654-3210,sneha@,15124.0,Rs. 72254.0/-
+EMP0125,Vikram Singh,26.0,M,mumbai,sales,46918.0,18.0,Diploma,3.0,22.04.2018,98765,vikram@company.com,17282.0,46918
+EMP0126,Pooja Mehta,36.0,F,PUNE,it,110981.0,4.0,diploma,9.0,2020/11/30,1234567890123,pooja gmail.com,11488.0,110981
+EMP0127,Rohan Kulkarni,35.0,female,delhi,H.R,85713.0,8.0,12th,1.0,15-Aug-2019,ABCDEFGHIJ,,6240.0,85713
+EMP0128,Neha Verma,24.0,Male ,bangalore,marketing,55306.0,11.0,,9.0,2021-13-45,,neha@valid.com,11453.0,Rs. 55306.0/-
+EMP0129,Suresh Nair,22.0, Female,Hyderabad,Finance,41646.0,0.0,Graduate,8.0,N/A,9876543210,rahul@gmail.com,11478.0,Rs. 41646.0/-
+EMP0130,Kavita Reddy,26.0,,,,71843.0,0.0,Post Graduate,1.0,,8765432109,priya@yahoo.com,13394.0,Rs. 71843.0/-
+EMP0131,rahul sharma,44.0,Male,Mumbai,Sales,145975.0,14.0,graduate,6.0,15/03/2020,+91-9876543210,amit.kumar,5432.0,145975
+EMP0132,PRIYA PATEL,35.0,Female,Pune,IT,121601.0,1.0,POST GRADUATE,5.0,2019-07-22,(987) 654-3210,sneha@,14568.0,121601
+EMP0133, Amit Kumar ,28.0,male,Delhi,HR,115735.0,15.0,Diploma,6.0,01-01-2021,98765,vikram@company.com,15178.0,Rs. 115735.0/-
+EMP0134,Sneha  Joshi,30.0,FEMALE,Bangalore,Marketing,132512.0,7.0,diploma,5.0,March 2022,1234567890123,pooja gmail.com,18660.0,Rs. 132512.0/-
+EMP0135,,36.0,M,mumbai,sales,41371.0,12.0,12th,6.0,22.04.2018,ABCDEFGHIJ,,1302.0,41371
+EMP0136,Rahul Sharma,36.0,F,PUNE,it,102371.0,0.0,,5.0,2020/11/30,,neha@valid.com,18022.0,102371
+EMP0137,Priya Patel,31.0,female,delhi,H.R,136472.0,15.0,Graduate,5.0,15-Aug-2019,9876543210,rahul@gmail.com,1055.0,136472
+EMP0138,Amit Kumar,34.0,Male ,bangalore,marketing,27049.0,6.0,Post Graduate,4.0,2021-13-45,8765432109,priya@yahoo.com,14013.0,Rs. 27049.0/-
+EMP0139,Sneha Joshi,40.0, Female,Hyderabad,Finance,56616.0,4.0,graduate,3.0,N/A,+91-9876543210,amit.kumar,9717.0,Rs. 56616.0/-
+EMP0140,Vikram Singh,28.0,,,,128727.0,2.0,POST GRADUATE,3.0,,(987) 654-3210,sneha@,9150.0,128727
+EMP0141,Pooja Mehta,38.0,Male,Mumbai,Sales,137893.0,11.0,Diploma,4.0,15/03/2020,98765,vikram@company.com,3125.0,137893
+EMP0142,Rohan Kulkarni,41.0,Female,Pune,IT,45932.0,15.0,diploma,9.0,2019-07-22,1234567890123,pooja gmail.com,12479.0,Rs. 45932.0/-
+EMP0143,Neha Verma,25.0,male,Delhi,HR,142796.0,18.0,12th,2.0,01-01-2021,ABCDEFGHIJ,,16745.0,142796
+EMP0144,Suresh Nair,26.0,FEMALE,Bangalore,Marketing,54855.0,4.0,,9.0,March 2022,,neha@valid.com,17748.0,Rs. 54855.0/-
+EMP0145,Kavita Reddy,44.0,M,mumbai,sales,86434.0,13.0,Graduate,1.0,22.04.2018,9876543210,rahul@gmail.com,7809.0,86434
+EMP0146,rahul sharma,28.0,F,PUNE,it,97694.0,4.0,Post Graduate,1.0,2020/11/30,8765432109,priya@yahoo.com,5621.0,97694
+EMP0147,PRIYA PATEL,34.0,female,delhi,H.R,68016.0,14.0,graduate,5.0,15-Aug-2019,+91-9876543210,amit.kumar,16034.0,Rs. 68016.0/-
+EMP0148, Amit Kumar ,36.0,Male ,bangalore,marketing,32400.0,16.0,POST GRADUATE,6.0,2021-13-45,(987) 654-3210,sneha@,14623.0,Rs. 32400.0/-
+EMP0149,Sneha  Joshi,32.0, Female,Hyderabad,Finance,142858.0,13.0,Diploma,6.0,N/A,98765,vikram@company.com,6126.0,142858
+EMP0150,,25.0,,,,67642.0,19.0,diploma,3.0,,1234567890123,pooja gmail.com,6122.0,67642
+EMP0151,Rahul Sharma,34.0,Male,Mumbai,Sales,40151.0,4.0,12th,7.0,15/03/2020,ABCDEFGHIJ,,19030.0,Rs. 40151.0/-
+EMP0152,Priya Patel,28.0,Female,Pune,IT,76407.0,11.0,,9.0,2019-07-22,,neha@valid.com,18302.0,Rs. 76407.0/-
+EMP0153,Amit Kumar,40.0,male,Delhi,HR,91690.0,15.0,Graduate,8.0,01-01-2021,9876543210,rahul@gmail.com,6870.0,91690
+EMP0154,Sneha Joshi,43.0,FEMALE,Bangalore,Marketing,29499.0,15.0,Post Graduate,6.0,March 2022,8765432109,priya@yahoo.com,2531.0,Rs. 29499.0/-
+EMP0155,Vikram Singh,23.0,M,mumbai,sales,31295.0,6.0,graduate,8.0,22.04.2018,+91-9876543210,amit.kumar,9172.0,31295
+EMP0156,Pooja Mehta,31.0,F,PUNE,it,145885.0,3.0,POST GRADUATE,5.0,2020/11/30,(987) 654-3210,sneha@,8673.0,145885
+EMP0157,Rohan Kulkarni,34.0,female,delhi,H.R,84040.0,0.0,Diploma,8.0,15-Aug-2019,98765,vikram@company.com,7882.0,84040
+EMP0158,Neha Verma,42.0,Male ,bangalore,marketing,37183.0,4.0,diploma,4.0,2021-13-45,1234567890123,pooja gmail.com,2906.0,Rs. 37183.0/-
+EMP0159,Suresh Nair,27.0, Female,Hyderabad,Finance,54299.0,9.0,12th,8.0,N/A,ABCDEFGHIJ,,4086.0,54299
+EMP0160,Kavita Reddy,33.0,,,,37874.0,4.0,,2.0,,,neha@valid.com,14503.0,37874
+EMP0161,rahul sharma,150.0,Male,Mumbai,Sales,-5000.0,3.0,Graduate,5.0,15/03/2020,9876543210,rahul@gmail.com,9152.0,-5000
+EMP0162,PRIYA PATEL,-5.0,Female,Pune,IT,-1000.0,1.0,Post Graduate,9.0,2019-07-22,8765432109,priya@yahoo.com,6750.0,Rs. -1000.0/-
+EMP0163, Amit Kumar ,200.0,male,Delhi,HR,0.0,19.0,graduate,4.0,01-01-2021,+91-9876543210,amit.kumar,13772.0,0
+EMP0164,Sneha  Joshi,999.0,FEMALE,Bangalore,Marketing,999999.0,9.0,POST GRADUATE,6.0,March 2022,(987) 654-3210,sneha@,11267.0,Rs. 999999.0/-
+EMP0165,,-1.0,M,mumbai,sales,-2500.0,18.0,Diploma,1.0,22.04.2018,98765,vikram@company.com,2062.0,Rs. -2500.0/-
+EMP0166,Rahul Sharma,0.0,F,PUNE,it,,-2.0,diploma,0.0,2020/11/30,1234567890123,pooja gmail.com,19360.0,
+EMP0167,Priya Patel,,female,delhi,H.R,,-5.0,12th,-1.0,15-Aug-2019,ABCDEFGHIJ,,18680.0,
+EMP0168,Amit Kumar,,Male ,bangalore,marketing,,50.0,,11.0,2021-13-45,,neha@valid.com,7229.0,
+EMP0169,Sneha Joshi,, Female,Hyderabad,Finance,,100.0,Graduate,15.0,N/A,9876543210,rahul@gmail.com,17509.0,
+EMP0170,Vikram Singh,,,,,,,Post Graduate,100.0,,8765432109,priya@yahoo.com,16147.0,
+EMP0001,Pooja Mehta,,Male,Mumbai,Sales,,,graduate,,15/03/2020,+91-9876543210,amit.kumar,,
+EMP0002,Rohan Kulkarni,,Female,Pune,IT,,,POST GRADUATE,,2019-07-22,(987) 654-3210,sneha@,,
+EMP0003,Neha Verma,,male,Delhi,HR,,,Diploma,,01-01-2021,98765,vikram@company.com,,
+EMP0004,Suresh Nair,,FEMALE,Bangalore,Marketing,,,diploma,,March 2022,1234567890123,pooja gmail.com,,
+EMP0005,Kavita Reddy,,M,mumbai,sales,,,12th,,22.04.2018,ABCDEFGHIJ,,,
+EMP0006,rahul sharma,,F,PUNE,it,,,,,2020/11/30,,neha@valid.com,,
+EMP0007,PRIYA PATEL,,female,delhi,H.R,,,Graduate,,15-Aug-2019,9876543210,rahul@gmail.com,,
+EMP0008, Amit Kumar ,,Male ,bangalore,marketing,,,Post Graduate,,2021-13-45,8765432109,priya@yahoo.com,,
+EMP0009,Sneha  Joshi,, Female,Hyderabad,Finance,,,graduate,,N/A,+91-9876543210,amit.kumar,,
+EMP0010,,,,,,,,POST GRADUATE,,,(987) 654-3210,sneha@,,
+EMP0011,Rahul Sharma,,Male,Mumbai,Sales,,,Diploma,,15/03/2020,98765,vikram@company.com,,
+EMP0012,Priya Patel,,Female,Pune,IT,,,diploma,,2019-07-22,1234567890123,pooja gmail.com,,
+EMP0013,Amit Kumar,,male,Delhi,HR,,,12th,,01-01-2021,ABCDEFGHIJ,,,
+EMP0014,Sneha Joshi,,FEMALE,Bangalore,Marketing,,,,,March 2022,,neha@valid.com,,
+EMP0015,Vikram Singh,,M,mumbai,sales,,,Graduate,,22.04.2018,9876543210,rahul@gmail.com,,
+,Pooja Mehta,,F,PUNE,it,,,Post Graduate,,2020/11/30,8765432109,priya@yahoo.com,,
+,Rohan Kulkarni,,female,delhi,H.R,,,graduate,,15-Aug-2019,+91-9876543210,amit.kumar,,
+,Neha Verma,,Male ,bangalore,marketing,,,POST GRADUATE,,2021-13-45,(987) 654-3210,sneha@,,
+,Suresh Nair,, Female,Hyderabad,Finance,,,Diploma,,N/A,98765,vikram@company.com,,
+,Kavita Reddy,,,,,,,diploma,,,1234567890123,pooja gmail.com,,
+,rahul sharma,,Male,Mumbai,Sales,,,12th,,15/03/2020,ABCDEFGHIJ,,,
+,PRIYA PATEL,,Female,Pune,IT,,,,,2019-07-22,,neha@valid.com,,
+, Amit Kumar ,,male,Delhi,HR,,,Graduate,,01-01-2021,9876543210,rahul@gmail.com,,
+,Sneha  Joshi,,FEMALE,Bangalore,Marketing,,,Post Graduate,,March 2022,8765432109,priya@yahoo.com,,
+,,,M,mumbai,sales,,,graduate,,22.04.2018,+91-9876543210,amit.kumar,,
+,Rahul Sharma,,F,PUNE,it,,,POST GRADUATE,,2020/11/30,(987) 654-3210,sneha@,,
+,Priya Patel,,female,delhi,H.R,,,Diploma,,15-Aug-2019,98765,vikram@company.com,,
+,Amit Kumar,,Male ,bangalore,marketing,,,diploma,,2021-13-45,1234567890123,pooja gmail.com,,
+,Sneha Joshi,, Female,Hyderabad,Finance,,,12th,,N/A,ABCDEFGHIJ,,,
+,Vikram Singh,,,,,,,,,,,neha@valid.com,,
