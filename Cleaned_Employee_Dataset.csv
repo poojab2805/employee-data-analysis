@@ -1,0 +1,160 @@
+,Employee_ID,Employee_Name,Age,Gender,City,Department,Salary,Experience_Years,Education,Performance_Score,Joining_Date,Phone_Number,Email,Monthly_Bonus,Salary_Text,Phone_Valid,Email_Valid,Salary_Grade,Total_Compensation,Performance_Category
+0,EMP0001,Rahul Sharma,28,Male,Mumbai,Sales,36797,16,Graduate,1,15/03/2020,9876543210,rahul@gmail.com,6320,Rs. 94163.0/-,Valid,Valid,Mid_Level,43117,Poor
+1,EMP0002,Priya Patel,41,Female,Pune,IT,36797,7,Post Graduate,8,2019-07-22,8765432109,priya@yahoo.com,14216,50939,Valid,Valid,Mid_Level,51013,Good
+2,EMP0003,Amit Kumar,36,Male,Delhi,HR,36797,3,Graduate,5,01-01-2021,+91-9876543210,amit.kumar,3779,73925,Invalid,Invalid,Mid_Level,40576,Average
+3,EMP0004,Sneha Joshi,32,Female,Bangalore,Marketing,36797,5,Post Graduate,4,March 2022,(987) 654-3210,sneha@,18308,67941,Invalid,Invalid,Mid_Level,55105,Average
+4,EMP0005,Vikram Singh,29,Male,Mumbai,Sales,46834,7,Diploma,8,22.04.2018,98765,vikram@company.com,2581,Rs. 46834.0/-,Invalid,Valid,Lead,49415,Good
+5,EMP0006,Pooja Mehta,42,Female,Pune,IT,43047,19,Diploma,7,2020/11/30,1234567890123,pooja gmail.com,13677,Rs. 43047.0/-,Invalid,Invalid,Senior,56724,Good
+6,EMP0007,Rohan Kulkarni,28,Female,Delhi,HR,36797,2,12Th,2,15-Aug-2019,ABCDEFGHIJ,,6713,Rs. 51105.0/-,Invalid,missing,Mid_Level,43510,Poor
+7,EMP0008,Neha Verma,40,Male,Bangalore,Marketing,36797,15,Post Graduate,1,2021-13-45,,neha@valid.com,17639,100766,Invalid,Valid,Mid_Level,54436,Poor
+8,EMP0009,Suresh Nair,44,Female,Hyderabad,Finance,40707,2,Graduate,4,,9876543210,rahul@gmail.com,5804,40707,Valid,Valid,Senior,46511,Average
+9,EMP0010,Kavita Reddy,32,Female,Pune,IT,46976,17,Post Graduate,8,,8765432109,priya@yahoo.com,19222,46976,Valid,Valid,Lead,66198,Good
+10,EMP0011,rahul sharma,32,Male,Mumbai,Sales,36797,13,Graduate,2,15/03/2020,+91-9876543210,amit.kumar,11136,69262,Invalid,Invalid,Mid_Level,47933,Poor
+11,EMP0012,PRIYA PATEL,42,Female,Pune,IT,48776,17,Post Graduate,3,2019-07-22,(987) 654-3210,sneha@,1009,Rs. 48776.0/-,Invalid,Invalid,Lead,49785,Poor
+12,EMP0013,Amit Kumar,25,Male,Delhi,HR,36797,1,Diploma,1,01-01-2021,98765,vikram@company.com,6124,55080,Invalid,Valid,Mid_Level,42921,Poor
+13,EMP0014,Sneha Joshi,29,Female,Bangalore,Marketing,36797,2,Diploma,1,March 2022,1234567890123,pooja gmail.com,2015,91842,Invalid,Invalid,Mid_Level,38812,Poor
+14,EMP0016,Rahul Sharma,43,Female,Pune,IT,31776,8,Post Graduate,5,2020/11/30,,neha@valid.com,9415,Rs. 31776.0/-,Invalid,Valid,Mid_Level,41191,Average
+15,EMP0017,Priya Patel,42,Female,Delhi,HR,36797,3,Graduate,3,15-Aug-2019,9876543210,rahul@gmail.com,14550,117787,Valid,Valid,Mid_Level,51347,Poor
+16,EMP0018,Amit Kumar,23,Male,Bangalore,Marketing,36797,0,Post Graduate,1,2021-13-45,8765432109,priya@yahoo.com,15512,Rs. 80016.0/-,Valid,Valid,Mid_Level,52309,Poor
+17,EMP0019,Sneha Joshi,33,Female,Hyderabad,Finance,34474,3,Graduate,1,,+91-9876543210,amit.kumar,5158,Rs. 34474.0/-,Invalid,Invalid,Mid_Level,39632,Poor
+18,EMP0020,Vikram Singh,27,Female,Pune,IT,36797,0,Post Graduate,8,,(987) 654-3210,sneha@,7970,130830,Invalid,Invalid,Mid_Level,44767,Good
+19,EMP0021,Pooja Mehta,23,Male,Mumbai,Sales,36797,13,Diploma,2,15/03/2020,98765,vikram@company.com,7938,Rs. 83053.0/-,Invalid,Valid,Mid_Level,44735,Poor
+20,EMP0022,Rohan Kulkarni,42,Female,Pune,IT,46959,15,Diploma,3,2019-07-22,1234567890123,pooja gmail.com,14772,Rs. 46959.0/-,Invalid,Invalid,Lead,61731,Poor
+21,EMP0023,Neha Verma,22,Male,Delhi,HR,30530,19,12Th,2,01-01-2021,ABCDEFGHIJ,,19017,30530,Invalid,missing,Mid_Level,49547,Poor
+22,EMP0024,Suresh Nair,33,Female,Bangalore,Marketing,36797,7,Post Graduate,3,March 2022,,neha@valid.com,11344,119856,Invalid,Valid,Mid_Level,48141,Poor
+23,EMP0025,Kavita Reddy,43,Male,Mumbai,Sales,36797,6,Graduate,7,22.04.2018,9876543210,rahul@gmail.com,8266,Rs. 144101.0/-,Valid,Valid,Mid_Level,45063,Good
+24,EMP0026,rahul sharma,33,Female,Pune,IT,28748,2,Post Graduate,1,2020/11/30,8765432109,priya@yahoo.com,9702,28748,Valid,Valid,Junior,38450,Poor
+25,EMP0027,PRIYA PATEL,38,Female,Delhi,HR,36797,16,Graduate,8,15-Aug-2019,+91-9876543210,amit.kumar,1384,122504,Invalid,Invalid,Mid_Level,38181,Good
+26,EMP0028,Amit Kumar,31,Male,Bangalore,Marketing,36797,0,Post Graduate,2,2021-13-45,(987) 654-3210,sneha@,1404,123098,Invalid,Invalid,Mid_Level,38201,Poor
+27,EMP0029,Sneha Joshi,37,Female,Hyderabad,Finance,38545,15,Diploma,3,,98765,vikram@company.com,9175,Rs. 38545.0/-,Invalid,Valid,Mid_Level,47720,Poor
+28,EMP0031,Rahul Sharma,36,Male,Mumbai,Sales,36797,18,12Th,7,15/03/2020,ABCDEFGHIJ,,13763,Rs. 59766.0/-,Invalid,missing,Mid_Level,50560,Good
+29,EMP0032,Priya Patel,40,Female,Pune,IT,36797,13,Post Graduate,4,2019-07-22,,neha@valid.com,19384,Rs. 98530.0/-,Invalid,Valid,Mid_Level,56181,Average
+30,EMP0033,Amit Kumar,33,Male,Delhi,HR,36797,5,Graduate,5,01-01-2021,9876543210,rahul@gmail.com,10860,Rs. 118557.0/-,Valid,Valid,Mid_Level,47657,Average
+31,EMP0034,Sneha Joshi,44,Female,Bangalore,Marketing,36797,5,Post Graduate,2,March 2022,8765432109,priya@yahoo.com,6989,Rs. 86087.0/-,Valid,Valid,Mid_Level,43786,Poor
+32,EMP0035,Vikram Singh,41,Male,Mumbai,Sales,36797,12,Graduate,8,22.04.2018,+91-9876543210,amit.kumar,16106,120839,Invalid,Invalid,Mid_Level,52903,Good
+33,EMP0036,Pooja Mehta,24,Female,Pune,IT,36797,18,Post Graduate,4,2020/11/30,(987) 654-3210,sneha@,18844,Rs. 141183.0/-,Invalid,Invalid,Mid_Level,55641,Average
+34,EMP0037,Rohan Kulkarni,26,Female,Delhi,HR,36797,7,Diploma,9,15-Aug-2019,98765,vikram@company.com,4636,Rs. 93840.0/-,Invalid,Valid,Mid_Level,41433,Excellent
+35,EMP0038,Neha Verma,40,Male,Bangalore,Marketing,36797,1,Diploma,5,2021-13-45,1234567890123,pooja gmail.com,11916,Rs. 143451.0/-,Invalid,Invalid,Mid_Level,48713,Average
+36,EMP0039,Suresh Nair,28,Female,Hyderabad,Finance,36797,0,12Th,9,,ABCDEFGHIJ,,5809,Rs. 79384.0/-,Invalid,missing,Mid_Level,42606,Excellent
+37,EMP0040,Kavita Reddy,42,Female,Pune,IT,36797,14,Post Graduate,4,,,neha@valid.com,14456,Rs. 76005.0/-,Invalid,Valid,Mid_Level,51253,Average
+38,EMP0041,rahul sharma,30,Male,Mumbai,Sales,36797,0,Graduate,5,15/03/2020,9876543210,rahul@gmail.com,16444,Rs. 71576.0/-,Valid,Valid,Mid_Level,53241,Average
+39,EMP0042,PRIYA PATEL,28,Female,Pune,IT,36797,4,Post Graduate,9,2019-07-22,8765432109,priya@yahoo.com,6997,64353,Valid,Valid,Mid_Level,43794,Excellent
+40,EMP0043,Amit Kumar,39,Male,Delhi,HR,36797,15,Graduate,8,01-01-2021,+91-9876543210,amit.kumar,3048,87003,Invalid,Invalid,Mid_Level,39845,Good
+41,EMP0044,Sneha Joshi,25,Female,Bangalore,Marketing,36797,18,Post Graduate,3,March 2022,(987) 654-3210,sneha@,13338,108211,Invalid,Invalid,Mid_Level,50135,Poor
+42,EMP0046,Rahul Sharma,39,Female,Pune,IT,36797,2,Diploma,3,2020/11/30,1234567890123,pooja gmail.com,5544,90318,Invalid,Invalid,Mid_Level,42341,Poor
+43,EMP0047,Priya Patel,30,Female,Delhi,HR,36797,16,12Th,4,15-Aug-2019,ABCDEFGHIJ,,5976,134953,Invalid,missing,Mid_Level,42773,Average
+44,EMP0048,Amit Kumar,42,Male,Bangalore,Marketing,36797,16,Post Graduate,2,2021-13-45,,neha@valid.com,13775,114474,Invalid,Valid,Mid_Level,50572,Poor
+45,EMP0049,Sneha Joshi,23,Female,Hyderabad,Finance,48664,11,Graduate,1,,9876543210,rahul@gmail.com,11015,Rs. 48664.0/-,Valid,Valid,Lead,59679,Poor
+46,EMP0050,Vikram Singh,41,Female,Pune,IT,36797,13,Post Graduate,7,,8765432109,priya@yahoo.com,4419,92172,Valid,Valid,Mid_Level,41216,Good
+47,EMP0051,Pooja Mehta,36,Male,Mumbai,Sales,36797,5,Graduate,8,15/03/2020,+91-9876543210,amit.kumar,15430,110616,Invalid,Invalid,Mid_Level,52227,Good
+48,EMP0052,Rohan Kulkarni,28,Female,Pune,IT,36797,2,Post Graduate,7,2019-07-22,(987) 654-3210,sneha@,8239,118264,Invalid,Invalid,Mid_Level,45036,Good
+49,EMP0053,Neha Verma,33,Male,Delhi,HR,36797,8,Diploma,5,01-01-2021,98765,vikram@company.com,15489,140386,Invalid,Valid,Mid_Level,52286,Average
+50,EMP0054,Suresh Nair,29,Female,Bangalore,Marketing,36797,4,Diploma,1,March 2022,1234567890123,pooja gmail.com,17633,Rs. 51736.0/-,Invalid,Invalid,Mid_Level,54430,Poor
+51,EMP0055,Kavita Reddy,36,Male,Mumbai,Sales,36797,16,12Th,7,22.04.2018,ABCDEFGHIJ,,11357,Rs. 119209.0/-,Invalid,missing,Mid_Level,48154,Good
+52,EMP0056,rahul sharma,24,Female,Pune,IT,36797,13,Post Graduate,7,2020/11/30,,neha@valid.com,18154,Rs. 128041.0/-,Invalid,Valid,Mid_Level,54951,Good
+53,EMP0057,PRIYA PATEL,35,Female,Delhi,HR,36797,2,Graduate,9,15-Aug-2019,9876543210,rahul@gmail.com,5363,137859,Valid,Valid,Mid_Level,42160,Excellent
+54,EMP0058,Amit Kumar,38,Male,Bangalore,Marketing,36797,0,Post Graduate,3,2021-13-45,8765432109,priya@yahoo.com,11176,Rs. 137181.0/-,Valid,Valid,Mid_Level,47973,Poor
+55,EMP0059,Sneha Joshi,25,Female,Hyderabad,Finance,25854,19,Graduate,9,,+91-9876543210,amit.kumar,18461,25854,Invalid,Invalid,Junior,44315,Excellent
+56,EMP0061,Rahul Sharma,29,Male,Mumbai,Sales,36797,2,Diploma,1,15/03/2020,98765,vikram@company.com,9580,Rs. 63623.0/-,Invalid,Valid,Mid_Level,46377,Poor
+57,EMP0062,Priya Patel,25,Female,Pune,IT,32392,17,Diploma,4,2019-07-22,1234567890123,pooja gmail.com,5858,Rs. 32392.0/-,Invalid,Invalid,Mid_Level,38250,Average
+58,EMP0063,Amit Kumar,23,Male,Delhi,HR,36797,9,12Th,9,01-01-2021,ABCDEFGHIJ,,11040,Rs. 80680.0/-,Invalid,missing,Mid_Level,47837,Excellent
+59,EMP0064,Sneha Joshi,27,Female,Bangalore,Marketing,36797,2,Post Graduate,6,March 2022,,neha@valid.com,16254,Rs. 71717.0/-,Invalid,Valid,Mid_Level,53051,Average
+60,EMP0065,Vikram Singh,43,Male,Mumbai,Sales,36797,7,Graduate,3,22.04.2018,9876543210,rahul@gmail.com,12470,Rs. 144937.0/-,Valid,Valid,Mid_Level,49267,Poor
+61,EMP0066,Pooja Mehta,31,Female,Pune,IT,36797,13,Post Graduate,1,2020/11/30,8765432109,priya@yahoo.com,2252,Rs. 112092.0/-,Valid,Valid,Mid_Level,39049,Poor
+62,EMP0067,Rohan Kulkarni,25,Female,Delhi,HR,36797,17,Graduate,4,15-Aug-2019,+91-9876543210,amit.kumar,7996,75859,Invalid,Invalid,Mid_Level,44793,Average
+63,EMP0068,Neha Verma,43,Male,Bangalore,Marketing,36797,14,Post Graduate,9,2021-13-45,(987) 654-3210,sneha@,13173,129095,Invalid,Invalid,Mid_Level,49970,Excellent
+64,EMP0069,Suresh Nair,39,Female,Hyderabad,Finance,36797,1,Diploma,3,,98765,vikram@company.com,5673,51309,Invalid,Valid,Mid_Level,42470,Poor
+65,EMP0070,Kavita Reddy,33,Female,Pune,IT,36797,9,Diploma,9,,1234567890123,pooja gmail.com,16781,112455,Invalid,Invalid,Mid_Level,53578,Excellent
+66,EMP0071,rahul sharma,23,Male,Mumbai,Sales,36797,1,12Th,7,15/03/2020,ABCDEFGHIJ,,14051,88734,Invalid,missing,Mid_Level,50848,Good
+67,EMP0072,PRIYA PATEL,31,Female,Pune,IT,36797,16,Post Graduate,4,2019-07-22,,neha@valid.com,7881,Rs. 95467.0/-,Invalid,Valid,Mid_Level,44678,Average
+68,EMP0073,Amit Kumar,25,Male,Delhi,HR,36797,7,Graduate,3,01-01-2021,9876543210,rahul@gmail.com,7949,Rs. 77662.0/-,Valid,Valid,Mid_Level,44746,Poor
+69,EMP0074,Sneha Joshi,35,Female,Bangalore,Marketing,36797,0,Post Graduate,5,March 2022,8765432109,priya@yahoo.com,10521,123506,Valid,Valid,Mid_Level,47318,Average
+70,EMP0076,Rahul Sharma,36,Female,Pune,IT,36797,10,Post Graduate,3,2020/11/30,(987) 654-3210,sneha@,7941,143906,Invalid,Invalid,Mid_Level,44738,Poor
+71,EMP0077,Priya Patel,29,Female,Delhi,HR,37688,15,Diploma,9,15-Aug-2019,98765,vikram@company.com,11209,Rs. 37688.0/-,Invalid,Valid,Mid_Level,48897,Excellent
+72,EMP0078,Amit Kumar,35,Male,Bangalore,Marketing,36797,6,Diploma,4,2021-13-45,1234567890123,pooja gmail.com,18715,50342,Invalid,Invalid,Mid_Level,55512,Average
+73,EMP0079,Sneha Joshi,44,Female,Hyderabad,Finance,36797,9,12Th,5,,ABCDEFGHIJ,,10550,62157,Invalid,missing,Mid_Level,47347,Average
+74,EMP0080,Vikram Singh,29,Female,Pune,IT,36797,2,Post Graduate,4,,,neha@valid.com,5637,92863,Invalid,Valid,Mid_Level,42434,Average
+75,EMP0081,Pooja Mehta,42,Male,Mumbai,Sales,36797,17,Graduate,5,15/03/2020,9876543210,rahul@gmail.com,5854,Rs. 131308.0/-,Valid,Valid,Mid_Level,42651,Average
+76,EMP0082,Rohan Kulkarni,37,Female,Pune,IT,36797,12,Post Graduate,7,2019-07-22,8765432109,priya@yahoo.com,11320,77083,Valid,Valid,Mid_Level,48117,Good
+77,EMP0083,Neha Verma,34,Male,Delhi,HR,36797,6,Graduate,9,01-01-2021,+91-9876543210,amit.kumar,19564,Rs. 131081.0/-,Invalid,Invalid,Mid_Level,56361,Excellent
+78,EMP0084,Suresh Nair,39,Female,Bangalore,Marketing,36797,3,Post Graduate,7,March 2022,(987) 654-3210,sneha@,5892,Rs. 90733.0/-,Invalid,Invalid,Mid_Level,42689,Good
+79,EMP0085,Kavita Reddy,36,Male,Mumbai,Sales,36797,12,Diploma,5,22.04.2018,98765,vikram@company.com,8043,114045,Invalid,Valid,Mid_Level,44840,Average
+80,EMP0086,rahul sharma,42,Female,Pune,IT,36797,19,Diploma,7,2020/11/30,1234567890123,pooja gmail.com,17521,59698,Invalid,Invalid,Mid_Level,54318,Good
+81,EMP0087,PRIYA PATEL,34,Female,Delhi,HR,36797,0,12Th,5,15-Aug-2019,ABCDEFGHIJ,,5164,Rs. 135078.0/-,Invalid,missing,Mid_Level,41961,Average
+82,EMP0088,Amit Kumar,30,Male,Bangalore,Marketing,36797,7,Post Graduate,3,2021-13-45,,neha@valid.com,8941,Rs. 105623.0/-,Invalid,Valid,Mid_Level,45738,Poor
+83,EMP0089,Sneha Joshi,36,Female,Hyderabad,Finance,47671,13,Graduate,7,,9876543210,rahul@gmail.com,15388,47671,Valid,Valid,Lead,63059,Good
+84,EMP0091,Rahul Sharma,22,Male,Mumbai,Sales,36797,13,Graduate,9,15/03/2020,+91-9876543210,amit.kumar,5300,118384,Invalid,Invalid,Mid_Level,42097,Excellent
+85,EMP0092,Priya Patel,28,Female,Pune,IT,36797,11,Post Graduate,1,2019-07-22,(987) 654-3210,sneha@,7269,Rs. 67107.0/-,Invalid,Invalid,Mid_Level,44066,Poor
+86,EMP0093,Amit Kumar,30,Male,Delhi,HR,36797,18,Diploma,6,01-01-2021,98765,vikram@company.com,4818,Rs. 111202.0/-,Invalid,Valid,Mid_Level,41615,Average
+87,EMP0094,Sneha Joshi,22,Female,Bangalore,Marketing,36797,14,Diploma,7,March 2022,1234567890123,pooja gmail.com,13015,134893,Invalid,Invalid,Mid_Level,49812,Good
+88,EMP0095,Vikram Singh,33,Male,Mumbai,Sales,36797,1,12Th,8,22.04.2018,ABCDEFGHIJ,,13234,76663,Invalid,missing,Mid_Level,50031,Good
+89,EMP0096,Pooja Mehta,29,Female,Pune,IT,40708,1,Post Graduate,9,2020/11/30,,neha@valid.com,19290,40708,Invalid,Valid,Senior,59998,Excellent
+90,EMP0097,Rohan Kulkarni,32,Female,Delhi,HR,36797,18,Graduate,2,15-Aug-2019,9876543210,rahul@gmail.com,7254,Rs. 116906.0/-,Valid,Valid,Mid_Level,44051,Poor
+91,EMP0098,Neha Verma,40,Male,Bangalore,Marketing,36797,16,Post Graduate,2,2021-13-45,8765432109,priya@yahoo.com,18144,Rs. 74811.0/-,Valid,Valid,Mid_Level,54941,Poor
+92,EMP0099,Suresh Nair,38,Female,Hyderabad,Finance,27811,19,Graduate,5,,+91-9876543210,amit.kumar,8350,Rs. 27811.0/-,Invalid,Invalid,Junior,36161,Average
+93,EMP0100,Kavita Reddy,29,Female,Pune,IT,36797,9,Post Graduate,5,,(987) 654-3210,sneha@,16183,Rs. 81250.0/-,Invalid,Invalid,Mid_Level,52980,Average
+94,EMP0101,rahul sharma,24,Male,Mumbai,Sales,36797,5,Diploma,6,15/03/2020,98765,vikram@company.com,7238,137547,Invalid,Valid,Mid_Level,44035,Average
+95,EMP0102,PRIYA PATEL,24,Female,Pune,IT,36797,14,Diploma,3,2019-07-22,1234567890123,pooja gmail.com,7090,Rs. 97082.0/-,Invalid,Invalid,Mid_Level,43887,Poor
+96,EMP0103,Amit Kumar,22,Male,Delhi,HR,36797,10,12Th,8,01-01-2021,ABCDEFGHIJ,,12637,Rs. 149249.0/-,Invalid,missing,Mid_Level,49434,Good
+97,EMP0104,Sneha Joshi,26,Female,Bangalore,Marketing,36797,4,Post Graduate,1,March 2022,,neha@valid.com,13647,Rs. 59754.0/-,Invalid,Valid,Mid_Level,50444,Poor
+98,EMP0106,Rahul Sharma,28,Female,Pune,IT,36797,7,Post Graduate,4,2020/11/30,8765432109,priya@yahoo.com,9472,Rs. 131642.0/-,Valid,Valid,Mid_Level,46269,Average
+99,EMP0107,Priya Patel,30,Female,Delhi,HR,36411,11,Graduate,1,15-Aug-2019,+91-9876543210,amit.kumar,19271,36411,Invalid,Invalid,Mid_Level,55682,Poor
+100,EMP0108,Amit Kumar,28,Male,Bangalore,Marketing,27911,11,Post Graduate,7,2021-13-45,(987) 654-3210,sneha@,4266,27911,Invalid,Invalid,Junior,32177,Good
+101,EMP0109,Sneha Joshi,30,Female,Hyderabad,Finance,36797,4,Diploma,9,,98765,vikram@company.com,1666,92270,Invalid,Valid,Mid_Level,38463,Excellent
+102,EMP0110,Vikram Singh,29,Female,Pune,IT,36797,6,Diploma,4,,1234567890123,pooja gmail.com,5188,Rs. 108763.0/-,Invalid,Invalid,Mid_Level,41985,Average
+103,EMP0111,Pooja Mehta,33,Male,Mumbai,Sales,33680,3,12Th,4,15/03/2020,ABCDEFGHIJ,,18055,Rs. 33680.0/-,Invalid,missing,Mid_Level,51735,Average
+104,EMP0112,Rohan Kulkarni,23,Female,Pune,IT,36797,5,Post Graduate,6,2019-07-22,,neha@valid.com,11161,109896,Invalid,Valid,Mid_Level,47958,Average
+105,EMP0113,Neha Verma,22,Male,Delhi,HR,36797,12,Graduate,3,01-01-2021,9876543210,rahul@gmail.com,12314,Rs. 108879.0/-,Valid,Valid,Mid_Level,49111,Poor
+106,EMP0114,Suresh Nair,37,Female,Bangalore,Marketing,36797,19,Post Graduate,6,March 2022,8765432109,priya@yahoo.com,13891,96295,Valid,Valid,Mid_Level,50688,Average
+107,EMP0115,Kavita Reddy,44,Male,Mumbai,Sales,36797,14,Graduate,7,22.04.2018,+91-9876543210,amit.kumar,5777,Rs. 113614.0/-,Invalid,Invalid,Mid_Level,42574,Good
+108,EMP0116,rahul sharma,44,Female,Pune,IT,36797,2,Post Graduate,3,2020/11/30,(987) 654-3210,sneha@,4900,Rs. 125689.0/-,Invalid,Invalid,Mid_Level,41697,Poor
+109,EMP0117,PRIYA PATEL,26,Female,Delhi,HR,36111,7,Diploma,7,15-Aug-2019,98765,vikram@company.com,14716,36111,Invalid,Valid,Mid_Level,50827,Good
+110,EMP0118,Amit Kumar,24,Male,Bangalore,Marketing,36797,19,Diploma,3,2021-13-45,1234567890123,pooja gmail.com,7981,Rs. 62504.0/-,Invalid,Invalid,Mid_Level,44778,Poor
+111,EMP0119,Sneha Joshi,33,Female,Hyderabad,Finance,26802,15,12Th,2,,ABCDEFGHIJ,,7376,Rs. 26802.0/-,Invalid,missing,Junior,34178,Poor
+112,EMP0121,Rahul Sharma,43,Male,Mumbai,Sales,36797,17,Graduate,8,15/03/2020,9876543210,rahul@gmail.com,19777,Rs. 98656.0/-,Valid,Valid,Mid_Level,56574,Good
+113,EMP0122,Priya Patel,24,Female,Pune,IT,36797,9,Post Graduate,9,2019-07-22,8765432109,priya@yahoo.com,19977,Rs. 64384.0/-,Valid,Valid,Mid_Level,56774,Excellent
+114,EMP0123,Amit Kumar,22,Male,Delhi,HR,36797,18,Graduate,7,01-01-2021,+91-9876543210,amit.kumar,11160,Rs. 137561.0/-,Invalid,Invalid,Mid_Level,47957,Good
+115,EMP0124,Sneha Joshi,24,Female,Bangalore,Marketing,36797,16,Post Graduate,1,March 2022,(987) 654-3210,sneha@,15124,Rs. 72254.0/-,Invalid,Invalid,Mid_Level,51921,Poor
+116,EMP0125,Vikram Singh,26,Male,Mumbai,Sales,46918,18,Diploma,3,22.04.2018,98765,vikram@company.com,17282,46918,Invalid,Valid,Lead,64200,Poor
+117,EMP0126,Pooja Mehta,36,Female,Pune,IT,36797,4,Diploma,9,2020/11/30,1234567890123,pooja gmail.com,11488,110981,Invalid,Invalid,Mid_Level,48285,Excellent
+118,EMP0127,Rohan Kulkarni,35,Female,Delhi,HR,36797,8,12Th,1,15-Aug-2019,ABCDEFGHIJ,,6240,85713,Invalid,missing,Mid_Level,43037,Poor
+119,EMP0128,Neha Verma,24,Male,Bangalore,Marketing,36797,11,Post Graduate,9,2021-13-45,,neha@valid.com,11453,Rs. 55306.0/-,Invalid,Valid,Mid_Level,48250,Excellent
+120,EMP0129,Suresh Nair,22,Female,Hyderabad,Finance,41646,0,Graduate,8,,9876543210,rahul@gmail.com,11478,Rs. 41646.0/-,Valid,Valid,Senior,53124,Good
+121,EMP0130,Kavita Reddy,26,Female,Pune,IT,36797,0,Post Graduate,1,,8765432109,priya@yahoo.com,13394,Rs. 71843.0/-,Valid,Valid,Mid_Level,50191,Poor
+122,EMP0131,rahul sharma,44,Male,Mumbai,Sales,36797,14,Graduate,6,15/03/2020,+91-9876543210,amit.kumar,5432,145975,Invalid,Invalid,Mid_Level,42229,Average
+123,EMP0132,PRIYA PATEL,35,Female,Pune,IT,36797,1,Post Graduate,5,2019-07-22,(987) 654-3210,sneha@,14568,121601,Invalid,Invalid,Mid_Level,51365,Average
+124,EMP0133,Amit Kumar,28,Male,Delhi,HR,36797,15,Diploma,6,01-01-2021,98765,vikram@company.com,15178,Rs. 115735.0/-,Invalid,Valid,Mid_Level,51975,Average
+125,EMP0134,Sneha Joshi,30,Female,Bangalore,Marketing,36797,7,Diploma,5,March 2022,1234567890123,pooja gmail.com,18660,Rs. 132512.0/-,Invalid,Invalid,Mid_Level,55457,Average
+126,EMP0136,Rahul Sharma,36,Female,Pune,IT,36797,0,Post Graduate,5,2020/11/30,,neha@valid.com,18022,102371,Invalid,Valid,Mid_Level,54819,Average
+127,EMP0137,Priya Patel,31,Female,Delhi,HR,36797,15,Graduate,5,15-Aug-2019,9876543210,rahul@gmail.com,1055,136472,Valid,Valid,Mid_Level,37852,Average
+128,EMP0138,Amit Kumar,34,Male,Bangalore,Marketing,27049,6,Post Graduate,4,2021-13-45,8765432109,priya@yahoo.com,14013,Rs. 27049.0/-,Valid,Valid,Junior,41062,Average
+129,EMP0139,Sneha Joshi,40,Female,Hyderabad,Finance,36797,4,Graduate,3,,+91-9876543210,amit.kumar,9717,Rs. 56616.0/-,Invalid,Invalid,Mid_Level,46514,Poor
+130,EMP0140,Vikram Singh,28,Female,Pune,IT,36797,2,Post Graduate,3,,(987) 654-3210,sneha@,9150,128727,Invalid,Invalid,Mid_Level,45947,Poor
+131,EMP0141,Pooja Mehta,38,Male,Mumbai,Sales,36797,11,Diploma,4,15/03/2020,98765,vikram@company.com,3125,137893,Invalid,Valid,Mid_Level,39922,Average
+132,EMP0142,Rohan Kulkarni,41,Female,Pune,IT,45932,15,Diploma,9,2019-07-22,1234567890123,pooja gmail.com,12479,Rs. 45932.0/-,Invalid,Invalid,Lead,58411,Excellent
+133,EMP0143,Neha Verma,25,Male,Delhi,HR,36797,18,12Th,2,01-01-2021,ABCDEFGHIJ,,16745,142796,Invalid,missing,Mid_Level,53542,Poor
+134,EMP0144,Suresh Nair,26,Female,Bangalore,Marketing,36797,4,Post Graduate,9,March 2022,,neha@valid.com,17748,Rs. 54855.0/-,Invalid,Valid,Mid_Level,54545,Excellent
+135,EMP0145,Kavita Reddy,44,Male,Mumbai,Sales,36797,13,Graduate,1,22.04.2018,9876543210,rahul@gmail.com,7809,86434,Valid,Valid,Mid_Level,44606,Poor
+136,EMP0146,rahul sharma,28,Female,Pune,IT,36797,4,Post Graduate,1,2020/11/30,8765432109,priya@yahoo.com,5621,97694,Valid,Valid,Mid_Level,42418,Poor
+137,EMP0147,PRIYA PATEL,34,Female,Delhi,HR,36797,14,Graduate,5,15-Aug-2019,+91-9876543210,amit.kumar,16034,Rs. 68016.0/-,Invalid,Invalid,Mid_Level,52831,Average
+138,EMP0148,Amit Kumar,36,Male,Bangalore,Marketing,32400,16,Post Graduate,6,2021-13-45,(987) 654-3210,sneha@,14623,Rs. 32400.0/-,Invalid,Invalid,Mid_Level,47023,Average
+139,EMP0149,Sneha Joshi,32,Female,Hyderabad,Finance,36797,13,Diploma,6,,98765,vikram@company.com,6126,142858,Invalid,Valid,Mid_Level,42923,Average
+140,EMP0151,Rahul Sharma,34,Male,Mumbai,Sales,40151,4,12Th,7,15/03/2020,ABCDEFGHIJ,,19030,Rs. 40151.0/-,Invalid,missing,Senior,59181,Good
+141,EMP0152,Priya Patel,28,Female,Pune,IT,36797,11,Post Graduate,9,2019-07-22,,neha@valid.com,18302,Rs. 76407.0/-,Invalid,Valid,Mid_Level,55099,Excellent
+142,EMP0153,Amit Kumar,40,Male,Delhi,HR,36797,15,Graduate,8,01-01-2021,9876543210,rahul@gmail.com,6870,91690,Valid,Valid,Mid_Level,43667,Good
+143,EMP0154,Sneha Joshi,43,Female,Bangalore,Marketing,29499,15,Post Graduate,6,March 2022,8765432109,priya@yahoo.com,2531,Rs. 29499.0/-,Valid,Valid,Junior,32030,Average
+144,EMP0155,Vikram Singh,23,Male,Mumbai,Sales,31295,6,Graduate,8,22.04.2018,+91-9876543210,amit.kumar,9172,31295,Invalid,Invalid,Mid_Level,40467,Good
+145,EMP0156,Pooja Mehta,31,Female,Pune,IT,36797,3,Post Graduate,5,2020/11/30,(987) 654-3210,sneha@,8673,145885,Invalid,Invalid,Mid_Level,45470,Average
+146,EMP0157,Rohan Kulkarni,34,Female,Delhi,HR,36797,0,Diploma,8,15-Aug-2019,98765,vikram@company.com,7882,84040,Invalid,Valid,Mid_Level,44679,Good
+147,EMP0158,Neha Verma,42,Male,Bangalore,Marketing,37183,4,Diploma,4,2021-13-45,1234567890123,pooja gmail.com,2906,Rs. 37183.0/-,Invalid,Invalid,Mid_Level,40089,Average
+148,EMP0159,Suresh Nair,27,Female,Hyderabad,Finance,36797,9,12Th,8,,ABCDEFGHIJ,,4086,54299,Invalid,missing,Mid_Level,40883,Good
+149,EMP0160,Kavita Reddy,33,Female,Pune,IT,37874,4,Post Graduate,2,,,neha@valid.com,14503,37874,Invalid,Valid,Mid_Level,52377,Poor
+150,EMP0161,rahul sharma,32,Male,Mumbai,Sales,36797,3,Graduate,5,15/03/2020,9876543210,rahul@gmail.com,9152,-5000,Valid,Valid,Mid_Level,45949,Average
+151,EMP0162,PRIYA PATEL,32,Female,Pune,IT,36797,1,Post Graduate,9,2019-07-22,8765432109,priya@yahoo.com,6750,Rs. -1000.0/-,Valid,Valid,Mid_Level,43547,Excellent
+152,EMP0163,Amit Kumar,32,Male,Delhi,HR,36797,19,Graduate,4,01-01-2021,+91-9876543210,amit.kumar,13772,0,Invalid,Invalid,Mid_Level,13772,Average
+153,EMP0164,Sneha Joshi,32,Female,Bangalore,Marketing,36797,9,Post Graduate,6,March 2022,(987) 654-3210,sneha@,11267,Rs. 999999.0/-,Invalid,Invalid,Mid_Level,48064,Average
+154,EMP0166,Rahul Sharma,32,Female,Pune,IT,36797,9,Diploma,0,2020/11/30,1234567890123,pooja gmail.com,19360,,Invalid,Invalid,Mid_Level,56157,Average
+155,EMP0167,Priya Patel,32,Female,Delhi,HR,36797,9,12Th,5,15-Aug-2019,ABCDEFGHIJ,,18680,,Invalid,missing,Mid_Level,55477,Average
+156,EMP0168,Amit Kumar,32,Male,Bangalore,Marketing,36797,9,Post Graduate,5,2021-13-45,,neha@valid.com,7229,,Invalid,Valid,Mid_Level,44026,Average
+157,EMP0169,Sneha Joshi,32,Female,Hyderabad,Finance,36797,9,Graduate,5,,9876543210,rahul@gmail.com,17509,,Valid,Valid,Mid_Level,54306,Average
+158,EMP0170,Vikram Singh,32,Female,Pune,IT,36797,9,Post Graduate,5,,8765432109,priya@yahoo.com,16147,,Valid,Valid,Mid_Level,52944,Average
